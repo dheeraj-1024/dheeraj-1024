@@ -9,10 +9,10 @@
 
 |S.no.|Name of Book|Author|
 |-----|------------|------|
-|1|Predictably Irrational||
-|2|Rich Dad Poor Dad|Dan Aiery|
-|3|The one Minute Manager||
-|4|The Value Investor|Guy Speir|
+|1|Predictably Irrational|Dan Ariely|
+|2|Rich Dad Poor Dad|Robert Kiyosaki|
+|3|The one Minute Manager|Ken, Susan, Lawrence|
+|4|The Value Investor|Guy Spier|
 
 <!---
 dheeraj-1024/dheeraj-1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
