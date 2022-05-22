@@ -11,7 +11,7 @@
 |-----|------------|------|
 |1|Predictably Irrational|Dan Ariely|
 |2|Rich Dad Poor Dad|Robert Kiyosaki|
-|3|The one Minute Manager|Ken, Susan, Lawrence|
+|3|The one Minute Manager|Ken, Susan, Laurence|
 |4|The Value Investor|Guy Spier|
 
 <!---
