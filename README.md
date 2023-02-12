@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dheeraj-1024
 - 📝 I hold a MS Degree with major in Physics from Indian Institute of Science Education and Research, Pune
 - 👀 I’m interested in Coding (python, c, cpp, fortran), Machine learning, Document writing in Latex
-- 🌱 I’m currently learning Deep learning. 
+- 🌱 I’m currently learning julia programming language. 
 - 🏈 I like to play football,chess ♟️ 
 - 📚 I also like reading books, taking photos 📱 , editing 💻 
 
