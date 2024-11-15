@@ -14,7 +14,8 @@
 |3|The one Minute Manager|Ken, Susan, Laurence|
 |4|The Value Investor|Guy Spier|
 |5|Influence|Daniel Kanheman|
-|6|21 lessons for 21st Century|Currently reading...|
+|6|Deep Work|Cal Newport|
+|7|21 lessons for 21st Century|Currently reading...|
 
 <!---
 dheeraj-1024/dheeraj-1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
